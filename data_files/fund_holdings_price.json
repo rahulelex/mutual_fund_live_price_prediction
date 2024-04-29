@@ -1,0 +1,229 @@
+{
+    "schemeName": "Tata Digital India Fund Direct Growth",
+    "holdings": [
+        {
+            "stock_name": "Infosys Ltd.",
+            "holding_percent": "17.64",
+            "stock_url": "/stocks/infosys-ltd",
+            "yesterday_price": "1430.25",
+            "current_price": "1434.75"
+        },
+        {
+            "stock_name": "Tata Consultancy Services Ltd.",
+            "holding_percent": "13.99",
+            "stock_url": "/stocks/tata-consultancy-services-ltd",
+            "yesterday_price": "3821.35",
+            "current_price": "3870.20"
+        },
+        {
+            "stock_name": "Tech Mahindra Ltd.",
+            "holding_percent": "9.06",
+            "stock_url": "/stocks/tech-mahindra-ltd",
+            "yesterday_price": "1278.75",
+            "current_price": "1288.30"
+        },
+        {
+            "stock_name": "HCL Technologies Ltd.",
+            "holding_percent": "7.92",
+            "stock_url": "/stocks/hcl-technologies-ltd",
+            "yesterday_price": "1473.85",
+            "current_price": "1387.40"
+        },
+        {
+            "stock_name": "LTIMindtree Ltd.",
+            "holding_percent": "6.04",
+            "stock_url": "/stocks/larsen-toubro-infotech-ltd",
+            "yesterday_price": "4788.05",
+            "current_price": "4743.95"
+        },
+        {
+            "stock_name": "Zomato Ltd.",
+            "holding_percent": "5.43",
+            "stock_url": "/stocks/zomato-ltd",
+            "yesterday_price": "188.10",
+            "current_price": "193.60"
+        },
+        {
+            "stock_name": "Wipro Ltd.",
+            "holding_percent": "4.98",
+            "stock_url": "/stocks/wipro-ltd",
+            "yesterday_price": "464.60",
+            "current_price": "462.95"
+        },
+        {
+            "stock_name": "Cyient Ltd.",
+            "holding_percent": "3.35",
+            "stock_url": "/stocks/cyient-ltd",
+            "yesterday_price": "1885.80",
+            "current_price": "1841.70"
+        },
+        {
+            "stock_name": "Persistent Systems Ltd.",
+            "holding_percent": "3.07",
+            "stock_url": "/stocks/persistent-systems-ltd",
+            "yesterday_price": "3397.45",
+            "current_price": "3373.80"
+        },
+        {
+            "stock_name": "Sonata Software Ltd.",
+            "holding_percent": "2.82",
+            "stock_url": "/stocks/sonata-software-ltd",
+            "yesterday_price": "681.05",
+            "current_price": "694.20"
+        },
+        {
+            "stock_name": "BSE Ltd.",
+            "holding_percent": "2.37",
+            "stock_url": "/stocks/bse-ltd",
+            "yesterday_price": "3210.35",
+            "current_price": "2771.25"
+        },
+        {
+            "stock_name": "Firstsource Solutions Ltd.",
+            "holding_percent": "2.06",
+            "stock_url": "/stocks/firstsource-solutions-ltd",
+            "yesterday_price": "217.80",
+            "current_price": "217.80"
+        },
+        {
+            "stock_name": "Bharti Airtel Ltd.",
+            "holding_percent": "1.86",
+            "stock_url": "/stocks/bharti-airtel-ltd",
+            "yesterday_price": "1326.00",
+            "current_price": "1332.45"
+        },
+        {
+            "stock_name": "PB Fintech Ltd.",
+            "holding_percent": "1.56",
+            "stock_url": "/stocks/pb-fintech-ltd",
+            "yesterday_price": "1257.70",
+            "current_price": "1238.60"
+        },
+        {
+            "stock_name": "ABB India Ltd.",
+            "holding_percent": "1.35",
+            "stock_url": "/stocks/abb-india-ltd",
+            "yesterday_price": "6410.45",
+            "current_price": "6451.90"
+        },
+        {
+            "stock_name": "Newgen Software Technologies Ltd.",
+            "holding_percent": "1.26",
+            "stock_url": "/stocks/newgen-software-technologies-ltd",
+            "yesterday_price": "805.60",
+            "current_price": "866.45"
+        },
+        {
+            "stock_name": "Zensar Technologies Ltd.",
+            "holding_percent": "1.23",
+            "stock_url": "/stocks/zensar-technologies-ltd",
+            "yesterday_price": "620.75",
+            "current_price": "612.25"
+        },
+        {
+            "stock_name": "Siemens Ltd.",
+            "holding_percent": "1.14",
+            "stock_url": "/stocks/siemens-ltd",
+            "yesterday_price": "5748.50",
+            "current_price": "5776.65"
+        },
+        {
+            "stock_name": "Tata Communications Ltd.",
+            "holding_percent": "1.01",
+            "stock_url": "/stocks/tata-communications-ltd",
+            "yesterday_price": "1756.65",
+            "current_price": "1733.75"
+        },
+        {
+            "stock_name": "Mphasis Ltd.",
+            "holding_percent": "0.99",
+            "stock_url": "/stocks/mphasis-ltd",
+            "yesterday_price": "2298.10",
+            "current_price": "2340.85"
+        },
+        {
+            "stock_name": "Info Edge (India) Ltd.",
+            "holding_percent": "0.98",
+            "stock_url": "/stocks/info-edge-india-ltd",
+            "yesterday_price": "5896.85",
+            "current_price": "6068.90"
+        },
+        {
+            "stock_name": "Birlasoft Ltd.",
+            "holding_percent": "0.87",
+            "stock_url": "/stocks/kpit-technologies-ltd",
+            "yesterday_price": "674.15",
+            "current_price": "674.70"
+        },
+        {
+            "stock_name": "Redington Ltd.",
+            "holding_percent": "0.70",
+            "stock_url": "/stocks/redington-india-ltd",
+            "yesterday_price": "222.60",
+            "current_price": "218.00"
+        },
+        {
+            "stock_name": "Mastek Ltd.",
+            "holding_percent": "0.65",
+            "stock_url": "/stocks/mastek-ltd",
+            "yesterday_price": "2777.15",
+            "current_price": "2700.35"
+        },
+        {
+            "stock_name": "Coforge Ltd.",
+            "holding_percent": "0.62",
+            "stock_url": "/stocks/niit-technologies-ltd",
+            "yesterday_price": "5251.00",
+            "current_price": "5184.20"
+        },
+        {
+            "stock_name": "L&T Technology Services Ltd.",
+            "holding_percent": "0.59",
+            "stock_url": "/stocks/lt-technology-services-ltd",
+            "yesterday_price": "4778.10",
+            "current_price": "4714.45"
+        },
+        {
+            "stock_name": "KPIT Technologies Ltd.",
+            "holding_percent": "0.53",
+            "stock_url": "/stocks/kpit-engineering-ltd",
+            "yesterday_price": "1416.45",
+            "current_price": "1508.50"
+        },
+        {
+            "stock_name": "Netweb Technologies India Ltd.",
+            "holding_percent": "0.45",
+            "stock_url": "/stocks/netweb-technologies-india-ltd",
+            "yesterday_price": "1697.50",
+            "current_price": "1679.40"
+        },
+        {
+            "stock_name": "Honeywell Automation India Ltd.",
+            "holding_percent": "0.42",
+            "stock_url": "/stocks/honeywell-automation-india-ltd",
+            "yesterday_price": "45201.95",
+            "current_price": "45220.75"
+        },
+        {
+            "stock_name": "Yatra Online Ltd.",
+            "holding_percent": "0.29",
+            "stock_url": "/stocks/yatra-online-ltd",
+            "yesterday_price": "148.70",
+            "current_price": "146.65"
+        },
+        {
+            "stock_name": "Latent View Analytics Ltd.",
+            "holding_percent": "0.21",
+            "stock_url": "/stocks/latent-view-analytics-ltd",
+            "yesterday_price": "496.35",
+            "current_price": "496.00"
+        },
+        {
+            "stock_name": "RateGain Travel Technologies Ltd.",
+            "holding_percent": "0.14",
+            "stock_url": "/stocks/rategain-travel-technologies-ltd",
+            "yesterday_price": "713.75",
+            "current_price": "693.25"
+        }
+    ]
+}

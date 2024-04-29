@@ -1,0 +1,2132 @@
+[
+    {
+        "schemeName": "Quant ELSS Tax Saver Fund Direct Growth",
+        "holdings": [
+            {
+                "stock_name": "Reliance Industries Ltd.",
+                "holding_percent": "9.77",
+                "stock_url": "/stocks/reliance-industries-ltd"
+            },
+            {
+                "stock_name": "Adani Power Ltd.",
+                "holding_percent": "7.41",
+                "stock_url": "/stocks/adani-power-ltd"
+            },
+            {
+                "stock_name": "JIO Financial Services Ltd.",
+                "holding_percent": "6.62",
+                "stock_url": "/stocks/jio-financial-services-ltd"
+            },
+            {
+                "stock_name": "Tata Consultancy Services Ltd.",
+                "holding_percent": "5.20",
+                "stock_url": "/stocks/tata-consultancy-services-ltd"
+            },
+            {
+                "stock_name": "Hindalco Industries Ltd.",
+                "holding_percent": "4.89",
+                "stock_url": "/stocks/hindalco-industries-ltd"
+            },
+            {
+                "stock_name": "Aurobindo Pharma Ltd.",
+                "holding_percent": "4.79",
+                "stock_url": "/stocks/aurobindo-pharma-ltd"
+            },
+            {
+                "stock_name": "GAIL (India) Ltd.",
+                "holding_percent": "4.58",
+                "stock_url": "/stocks/gail-india-ltd"
+            },
+            {
+                "stock_name": "Britannia Industries Ltd.",
+                "holding_percent": "4.16",
+                "stock_url": "/stocks/britannia-industries-ltd"
+            },
+            {
+                "stock_name": "Jindal Steel & Power Ltd.",
+                "holding_percent": "3.69",
+                "stock_url": "/stocks/jindal-steel-power-ltd"
+            },
+            {
+                "stock_name": "Punjab National Bank",
+                "holding_percent": "3.60",
+                "stock_url": "/stocks/punjab-national-bank"
+            },
+            {
+                "stock_name": "Life Insurance Corporation of India",
+                "holding_percent": "3.44",
+                "stock_url": "/stocks/life-insurance-corporation-of-india"
+            },
+            {
+                "stock_name": "Capri Global Capital Ltd.",
+                "holding_percent": "3.09",
+                "stock_url": "/stocks/capri-global-capital-ltd"
+            },
+            {
+                "stock_name": "Tata Steel Ltd.",
+                "holding_percent": "2.99",
+                "stock_url": "/stocks/tata-steel-ltd"
+            },
+            {
+                "stock_name": "Bosch Ltd.",
+                "holding_percent": "2.80",
+                "stock_url": "/stocks/bosch-ltd"
+            },
+            {
+                "stock_name": "Steel Authority Of India Ltd.",
+                "holding_percent": "2.72",
+                "stock_url": "/stocks/steel-authority-of-india-ltd"
+            },
+            {
+                "stock_name": "Larsen & Toubro Ltd.",
+                "holding_percent": "2.71",
+                "stock_url": "/stocks/larsen-toubro-ltd"
+            },
+            {
+                "stock_name": "Tata Power Company Ltd.",
+                "holding_percent": "2.41",
+                "stock_url": "/stocks/tata-power-company-ltd"
+            },
+            {
+                "stock_name": "Swan Energy Ltd.",
+                "holding_percent": "2.11",
+                "stock_url": "/stocks/swan-energy-ltd"
+            },
+            {
+                "stock_name": "National Aluminium Company Ltd.",
+                "holding_percent": "2.06",
+                "stock_url": "/stocks/national-aluminium-company-ltd"
+            },
+            {
+                "stock_name": "Bharat Electronics Ltd.",
+                "holding_percent": "1.74",
+                "stock_url": "/stocks/bharat-electronics-ltd"
+            },
+            {
+                "stock_name": "Samvardhana Motherson International Ltd.",
+                "holding_percent": "1.68",
+                "stock_url": "/stocks/motherson-sumi-systems-ltd"
+            },
+            {
+                "stock_name": "Sun TV Network Ltd.",
+                "holding_percent": "1.48",
+                "stock_url": "/stocks/sun-tv-network-ltd"
+            },
+            {
+                "stock_name": "Bharat Heavy Electricals Ltd.",
+                "holding_percent": "1.44",
+                "stock_url": "/stocks/bharat-heavy-electricals-ltd"
+            },
+            {
+                "stock_name": "Infosys Ltd.",
+                "holding_percent": "1.33",
+                "stock_url": "/stocks/infosys-ltd"
+            },
+            {
+                "stock_name": "Wipro Ltd.",
+                "holding_percent": "1.32",
+                "stock_url": "/stocks/wipro-ltd"
+            },
+            {
+                "stock_name": "State Bank of India",
+                "holding_percent": "1.17",
+                "stock_url": "/stocks/state-bank-of-india"
+            },
+            {
+                "stock_name": "NMDC Ltd.",
+                "holding_percent": "1.11",
+                "stock_url": "/stocks/nmdc-ltd"
+            },
+            {
+                "stock_name": "RBL Bank Ltd.",
+                "holding_percent": "0.89",
+                "stock_url": "/stocks/rbl-bank-ltd"
+            },
+            {
+                "stock_name": "IRB Infrastructure Developers Ltd.",
+                "holding_percent": "0.84",
+                "stock_url": "/stocks/irb-infrastructure-developers-ltd"
+            },
+            {
+                "stock_name": "Tata Chemicals Ltd.",
+                "holding_percent": "0.83",
+                "stock_url": "/stocks/tata-chemicals-ltd"
+            },
+            {
+                "stock_name": "Biocon Ltd.",
+                "holding_percent": "0.71",
+                "stock_url": "/stocks/biocon-ltd"
+            },
+            {
+                "stock_name": "Maruti Suzuki India Ltd.",
+                "holding_percent": "0.66",
+                "stock_url": "/stocks/maruti-suzuki-india-ltd"
+            },
+            {
+                "stock_name": "HFCL Ltd.",
+                "holding_percent": "0.66",
+                "stock_url": "/stocks/himachal-futuristic-communications-ltd"
+            },
+            {
+                "stock_name": "MMTC Ltd.",
+                "holding_percent": "0.61",
+                "stock_url": "/stocks/mmtc-ltd"
+            },
+            {
+                "stock_name": "Adani Green Energy Ltd.",
+                "holding_percent": "0.43",
+                "stock_url": "/stocks/adani-green-energy-ltd"
+            },
+            {
+                "stock_name": "Himadri Speciality Chemical Ltd.",
+                "holding_percent": "0.42",
+                "stock_url": "/stocks/himadri-speciality-chemical-ltd"
+            },
+            {
+                "stock_name": "GOCL Corporation Ltd.",
+                "holding_percent": "0.39",
+                "stock_url": "/stocks/gocl-corporation-ltd"
+            },
+            {
+                "stock_name": "HDFC Life Insurance Co Ltd.",
+                "holding_percent": "0.34",
+                "stock_url": "/stocks/hdfc-standard-life-insurance-co-ltd"
+            },
+            {
+                "stock_name": "Krystal Integrated Services Ltd.",
+                "holding_percent": "0.33",
+                "stock_url": "/stocks/krystal-integrated-services-ltd"
+            },
+            {
+                "stock_name": "Mphasis Ltd.",
+                "holding_percent": "0.29",
+                "stock_url": "/stocks/mphasis-ltd"
+            },
+            {
+                "stock_name": "Sun Pharma Advanced Research Company Ltd.",
+                "holding_percent": "0.26",
+                "stock_url": "/stocks/sun-pharma-advanced-research-company-ltd"
+            },
+            {
+                "stock_name": "Bharat Rasayan Ltd.",
+                "holding_percent": "0.16",
+                "stock_url": "/stocks/bharat-rasayan-ltd"
+            },
+            {
+                "stock_name": "NACL Industries Ltd.",
+                "holding_percent": "0.13",
+                "stock_url": "/stocks/nacl-industries-ltd"
+            },
+            {
+                "stock_name": "Grasim Industries - (Partly Paid Equity)",
+                "holding_percent": "0.06",
+                "stock_url": "/stocks/grasim-industries-ltd-rights-issue-partly-paidup"
+            }
+        ]
+    },
+    {
+        "schemeName": "Tata Resources & Energy Fund Direct Growth",
+        "holdings": [
+            {
+                "stock_name": "NTPC Ltd.",
+                "holding_percent": "7.75",
+                "stock_url": "/stocks/ntpc-ltd"
+            },
+            {
+                "stock_name": "Vedanta Ltd.",
+                "holding_percent": "5.22",
+                "stock_url": "/stocks/vedanta-ltd"
+            },
+            {
+                "stock_name": "Ambuja Cements Ltd.",
+                "holding_percent": "4.96",
+                "stock_url": "/stocks/ambuja-cements-ltd"
+            },
+            {
+                "stock_name": "Reliance Industries Ltd.",
+                "holding_percent": "4.86",
+                "stock_url": "/stocks/reliance-industries-ltd"
+            },
+            {
+                "stock_name": "Ultratech Cement Ltd.",
+                "holding_percent": "4.78",
+                "stock_url": "/stocks/ultratech-cement-ltd"
+            },
+            {
+                "stock_name": "Tata Power Company Ltd.",
+                "holding_percent": "4.51",
+                "stock_url": "/stocks/tata-power-company-ltd"
+            },
+            {
+                "stock_name": "Oil & Natural Gas Corporation Ltd.",
+                "holding_percent": "4.33",
+                "stock_url": "/stocks/oil-natural-gas-corporation-ltd"
+            },
+            {
+                "stock_name": "Grasim Industries Ltd.",
+                "holding_percent": "3.83",
+                "stock_url": "/stocks/grasim-industries-ltd"
+            },
+            {
+                "stock_name": "Bharat Petroleum Corporation Ltd.",
+                "holding_percent": "3.47",
+                "stock_url": "/stocks/bharat-petroleum-corporation-ltd"
+            },
+            {
+                "stock_name": "Power Grid Corporation Of India Ltd.",
+                "holding_percent": "3.19",
+                "stock_url": "/stocks/power-grid-corporation-of-india-ltd"
+            },
+            {
+                "stock_name": "Jindal Steel & Power Ltd.",
+                "holding_percent": "3.18",
+                "stock_url": "/stocks/jindal-steel-power-ltd"
+            },
+            {
+                "stock_name": "Tata Steel Ltd.",
+                "holding_percent": "3.00",
+                "stock_url": "/stocks/tata-steel-ltd"
+            },
+            {
+                "stock_name": "APL Apollo Tubes Ltd.",
+                "holding_percent": "2.88",
+                "stock_url": "/stocks/apl-apollo-tubes-ltd"
+            },
+            {
+                "stock_name": "Adani Power Ltd.",
+                "holding_percent": "2.77",
+                "stock_url": "/stocks/adani-power-ltd"
+            },
+            {
+                "stock_name": "Coal India Ltd.",
+                "holding_percent": "2.67",
+                "stock_url": "/stocks/coal-india-ltd"
+            },
+            {
+                "stock_name": "Sumitomo Chemical India Ltd.",
+                "holding_percent": "2.67",
+                "stock_url": "/stocks/sumitomo-chemical-india-ltd"
+            },
+            {
+                "stock_name": "GAIL (India) Ltd.",
+                "holding_percent": "2.52",
+                "stock_url": "/stocks/gail-india-ltd"
+            },
+            {
+                "stock_name": "Jindal Stainless Ltd.",
+                "holding_percent": "2.34",
+                "stock_url": "/stocks/jindal-stainless-ltd"
+            },
+            {
+                "stock_name": "Hindustan Petroleum Corporation Ltd.",
+                "holding_percent": "2.29",
+                "stock_url": "/stocks/hindustan-petroleum-corporation-ltd"
+            },
+            {
+                "stock_name": "ACC Ltd.",
+                "holding_percent": "2.25",
+                "stock_url": "/stocks/acc-ltd"
+            },
+            {
+                "stock_name": "Hindalco Industries Ltd.",
+                "holding_percent": "2.10",
+                "stock_url": "/stocks/hindalco-industries-ltd"
+            },
+            {
+                "stock_name": "SRF Ltd.",
+                "holding_percent": "2.02",
+                "stock_url": "/stocks/srf-ltd"
+            },
+            {
+                "stock_name": "Navin Fluorine International Ltd.",
+                "holding_percent": "1.94",
+                "stock_url": "/stocks/navin-fluorine-international-ltd"
+            },
+            {
+                "stock_name": "NHPC Ltd.",
+                "holding_percent": "1.72",
+                "stock_url": "/stocks/nhpc-ltd"
+            },
+            {
+                "stock_name": "Dalmia Bharat Ltd.",
+                "holding_percent": "1.68",
+                "stock_url": "/stocks/odisha-cement-ltd"
+            },
+            {
+                "stock_name": "Indian Oil Corporation Ltd.",
+                "holding_percent": "1.61",
+                "stock_url": "/stocks/indian-oil-corporation-ltd"
+            },
+            {
+                "stock_name": "The Ramco Cements Ltd.",
+                "holding_percent": "1.56",
+                "stock_url": "/stocks/the-ramco-cements-ltd"
+            },
+            {
+                "stock_name": "Paradeep Phosphates Ltd.",
+                "holding_percent": "1.53",
+                "stock_url": "/stocks/paradeep-phosphates-ltd"
+            },
+            {
+                "stock_name": "CCL Products (India) Ltd.",
+                "holding_percent": "1.35",
+                "stock_url": "/stocks/ccl-products-india-ltd"
+            },
+            {
+                "stock_name": "Balrampur Chini Mills Ltd.",
+                "holding_percent": "1.30",
+                "stock_url": "/stocks/balrampur-chini-mills-ltd"
+            },
+            {
+                "stock_name": "Aarti Industries Ltd.",
+                "holding_percent": "1.22",
+                "stock_url": "/stocks/aarti-industries-ltd"
+            },
+            {
+                "stock_name": "Gujarat Gas Ltd.",
+                "holding_percent": "1.15",
+                "stock_url": "/stocks/gujarat-gas-ltd"
+            },
+            {
+                "stock_name": "RHI Magnesita India Ltd.",
+                "holding_percent": "1.06",
+                "stock_url": "/stocks/orient-refractories-ltd"
+            },
+            {
+                "stock_name": "Deepak Nitrite Ltd.",
+                "holding_percent": "1.05",
+                "stock_url": "/stocks/deepak-nitrite-ltd"
+            },
+            {
+                "stock_name": "Coromandel International Ltd.",
+                "holding_percent": "1.02",
+                "stock_url": "/stocks/coromandel-international-ltd"
+            },
+            {
+                "stock_name": "Swan Energy Ltd.",
+                "holding_percent": "0.96",
+                "stock_url": "/stocks/swan-energy-ltd"
+            },
+            {
+                "stock_name": "Chemcon Speciality Chemicals Ltd.",
+                "holding_percent": "0.44",
+                "stock_url": "/stocks/chemcon-speciality-chemicals-ltd"
+            },
+            {
+                "stock_name": "Grasim Industries - (Partly Paid Equity)",
+                "holding_percent": "0.04",
+                "stock_url": "/stocks/grasim-industries-ltd-rights-issue-partly-paidup"
+            }
+        ]
+    },
+    {
+        "schemeName": "HDFC Flexi Cap Direct Plan Growth",
+        "holdings": [
+            {
+                "stock_name": "ICICI Bank Ltd.",
+                "holding_percent": "9.46",
+                "stock_url": "/stocks/icici-bank-ltd"
+            },
+            {
+                "stock_name": "HDFC Bank Ltd.",
+                "holding_percent": "9.31",
+                "stock_url": "/stocks/hdfc-bank-ltd"
+            },
+            {
+                "stock_name": "Axis Bank Ltd.",
+                "holding_percent": "6.49",
+                "stock_url": "/stocks/axis-bank-ltd"
+            },
+            {
+                "stock_name": "Cipla Ltd.",
+                "holding_percent": "5.59",
+                "stock_url": "/stocks/cipla-ltd"
+            },
+            {
+                "stock_name": "Hindustan Aeronautics Ltd.",
+                "holding_percent": "5.37",
+                "stock_url": "/stocks/hindustan-aeronautics-ltd"
+            },
+            {
+                "stock_name": "State Bank of India",
+                "holding_percent": "4.88",
+                "stock_url": "/stocks/state-bank-of-india"
+            },
+            {
+                "stock_name": "Bharti Airtel Ltd.",
+                "holding_percent": "4.35",
+                "stock_url": "/stocks/bharti-airtel-ltd"
+            },
+            {
+                "stock_name": "HCL Technologies Ltd.",
+                "holding_percent": "4.20",
+                "stock_url": "/stocks/hcl-technologies-ltd"
+            },
+            {
+                "stock_name": "Apollo Hospitals Enterprise Ltd.",
+                "holding_percent": "4.13",
+                "stock_url": "/stocks/apollo-hospitals-enterprise-ltd"
+            },
+            {
+                "stock_name": "SBI Life Insurance Company Ltd.",
+                "holding_percent": "4.13",
+                "stock_url": "/stocks/sbi-life-insurance-company-ltd"
+            },
+            {
+                "stock_name": "Kotak Mahindra Bank Ltd.",
+                "holding_percent": "2.35",
+                "stock_url": "/stocks/kotak-mahindra-bank-ltd"
+            },
+            {
+                "stock_name": "Maruti Suzuki India Ltd.",
+                "holding_percent": "2.35",
+                "stock_url": "/stocks/maruti-suzuki-india-ltd"
+            },
+            {
+                "stock_name": "Embassy Office Parks REIT",
+                "holding_percent": "1.98",
+                "stock_url": "/stocks/embassy-office-parks-reit"
+            },
+            {
+                "stock_name": "Power Grid Corporation Of India Ltd.",
+                "holding_percent": "1.85",
+                "stock_url": "/stocks/power-grid-corporation-of-india-ltd"
+            },
+            {
+                "stock_name": "Infosys Ltd.",
+                "holding_percent": "1.77",
+                "stock_url": "/stocks/infosys-ltd"
+            },
+            {
+                "stock_name": "Prestige Estates Projects Ltd.",
+                "holding_percent": "1.73",
+                "stock_url": "/stocks/prestige-estate-projects-ltd"
+            },
+            {
+                "stock_name": "Nexus Select Trust",
+                "holding_percent": "1.63",
+                "stock_url": "/stocks/nexus-select-trust"
+            },
+            {
+                "stock_name": "Mahindra & Mahindra Ltd.",
+                "holding_percent": "1.49",
+                "stock_url": "/stocks/mahindra-mahindra-ltd"
+            },
+            {
+                "stock_name": "NTPC Ltd.",
+                "holding_percent": "1.49",
+                "stock_url": "/stocks/ntpc-ltd"
+            },
+            {
+                "stock_name": "Dr. Reddy's Laboratories Ltd.",
+                "holding_percent": "1.33",
+                "stock_url": "/stocks/dr-reddys-laboratories-ltd"
+            },
+            {
+                "stock_name": "Oil & Natural Gas Corporation Ltd.",
+                "holding_percent": "1.27",
+                "stock_url": "/stocks/oil-natural-gas-corporation-ltd"
+            },
+            {
+                "stock_name": "Kalpataru Projects International Ltd.",
+                "holding_percent": "1.25",
+                "stock_url": "/stocks/kalpataru-power-transmission-ltd"
+            },
+            {
+                "stock_name": "Piramal Pharma Ltd.",
+                "holding_percent": "1.25",
+                "stock_url": "/stocks/piramal-pharma-ltd"
+            },
+            {
+                "stock_name": "Tech Mahindra Ltd.",
+                "holding_percent": "1.23",
+                "stock_url": "/stocks/tech-mahindra-ltd"
+            },
+            {
+                "stock_name": "Bosch Ltd.",
+                "holding_percent": "1.18",
+                "stock_url": "/stocks/bosch-ltd"
+            },
+            {
+                "stock_name": "Bank Of Baroda",
+                "holding_percent": "1.14",
+                "stock_url": "/stocks/bank-of-baroda"
+            },
+            {
+                "stock_name": "Sapphire Foods India Ltd.",
+                "holding_percent": "1.11",
+                "stock_url": "/stocks/sapphire-foods-india-ltd"
+            },
+            {
+                "stock_name": "Larsen & Toubro Ltd.",
+                "holding_percent": "1.07",
+                "stock_url": "/stocks/larsen-toubro-ltd"
+            },
+            {
+                "stock_name": "United Spirits Ltd.",
+                "holding_percent": "0.73",
+                "stock_url": "/stocks/united-spirits-ltd"
+            },
+            {
+                "stock_name": "Crompton Greaves Consumer Electricals Ltd.",
+                "holding_percent": "0.71",
+                "stock_url": "/stocks/crompton-greaves-consumer-electricals-ltd"
+            },
+            {
+                "stock_name": "BEML Ltd.",
+                "holding_percent": "0.63",
+                "stock_url": "/stocks/beml-ltd"
+            },
+            {
+                "stock_name": "Lupin Ltd.",
+                "holding_percent": "0.54",
+                "stock_url": "/stocks/lupin-ltd"
+            },
+            {
+                "stock_name": "Coforge Ltd.",
+                "holding_percent": "0.43",
+                "stock_url": "/stocks/niit-technologies-ltd"
+            },
+            {
+                "stock_name": "GOI",
+                "holding_percent": "0.40",
+                "stock_url": "/stocks/goi-351"
+            },
+            {
+                "stock_name": "Metropolis Healthcare Ltd.",
+                "holding_percent": "0.38",
+                "stock_url": "/stocks/metropolis-healthcare-ltd"
+            },
+            {
+                "stock_name": "Zee Entertainment Enterprises Ltd.",
+                "holding_percent": "0.36",
+                "stock_url": "/stocks/zee-entertainment-enterprises-ltd"
+            },
+            {
+                "stock_name": "CIE Automotive India Ltd.",
+                "holding_percent": "0.35",
+                "stock_url": "/stocks/mahindra-cie-automotive-ltd"
+            },
+            {
+                "stock_name": "Varroc Engineering Ltd.",
+                "holding_percent": "0.35",
+                "stock_url": "/stocks/varroc-engineering-ltd"
+            },
+            {
+                "stock_name": "Reliance Industries Ltd.",
+                "holding_percent": "0.29",
+                "stock_url": "/stocks/reliance-industries-ltd"
+            },
+            {
+                "stock_name": "Bharat Dynamics Ltd.",
+                "holding_percent": "0.26",
+                "stock_url": "/stocks/bharat-dynamics-ltd"
+            },
+            {
+                "stock_name": "Tata Steel Ltd.",
+                "holding_percent": "0.19",
+                "stock_url": "/stocks/tata-steel-ltd"
+            },
+            {
+                "stock_name": "Delhivery Ltd.",
+                "holding_percent": "0.16",
+                "stock_url": "/stocks/delhivery-ltd"
+            },
+            {
+                "stock_name": "Bharti Airtel Ltd. - (Partly Paid up Equity Shares (Rights Issue))",
+                "holding_percent": "0.11",
+                "stock_url": "/stocks/bharti-airtel-ltd-partly-paid-up-equity-shares-rights-issue-352"
+            },
+            {
+                "stock_name": "Interglobe Aviation Ltd.",
+                "holding_percent": "0.09",
+                "stock_url": "/stocks/interglobe-aviation-ltd"
+            },
+            {
+                "stock_name": "Ramco Systems Ltd.",
+                "holding_percent": "0.08",
+                "stock_url": "/stocks/ramco-systems-ltd"
+            },
+            {
+                "stock_name": "BEML Land Assets Ltd.",
+                "holding_percent": "0.08",
+                "stock_url": "/stocks/beml-land-assets-ltd"
+            }
+        ]
+    },
+    {
+        "schemeName": "ICICI Prudential Bluechip Fund Direct Growth",
+        "holdings": [
+            {
+                "stock_name": "ICICI Bank Ltd.",
+                "holding_percent": "8.28",
+                "stock_url": "/stocks/icici-bank-ltd"
+            },
+            {
+                "stock_name": "Reliance Industries Ltd.",
+                "holding_percent": "8.09",
+                "stock_url": "/stocks/reliance-industries-ltd"
+            },
+            {
+                "stock_name": "Larsen & Toubro Ltd.",
+                "holding_percent": "7.05",
+                "stock_url": "/stocks/larsen-toubro-ltd"
+            },
+            {
+                "stock_name": "Maruti Suzuki India Ltd.",
+                "holding_percent": "4.95",
+                "stock_url": "/stocks/maruti-suzuki-india-ltd"
+            },
+            {
+                "stock_name": "Infosys Ltd.",
+                "holding_percent": "4.71",
+                "stock_url": "/stocks/infosys-ltd"
+            },
+            {
+                "stock_name": "Axis Bank Ltd.",
+                "holding_percent": "4.38",
+                "stock_url": "/stocks/axis-bank-ltd"
+            },
+            {
+                "stock_name": "Bharti Airtel Ltd.",
+                "holding_percent": "3.98",
+                "stock_url": "/stocks/bharti-airtel-ltd"
+            },
+            {
+                "stock_name": "Ultratech Cement Ltd.",
+                "holding_percent": "3.80",
+                "stock_url": "/stocks/ultratech-cement-ltd"
+            },
+            {
+                "stock_name": "HDFC Bank Ltd.",
+                "holding_percent": "3.50",
+                "stock_url": "/stocks/hdfc-bank-ltd"
+            },
+            {
+                "stock_name": "Sun Pharmaceutical Industries Ltd.",
+                "holding_percent": "2.69",
+                "stock_url": "/stocks/sun-pharmaceutical-industries-ltd"
+            },
+            {
+                "stock_name": "ITC Ltd.",
+                "holding_percent": "2.20",
+                "stock_url": "/stocks/itc-ltd"
+            },
+            {
+                "stock_name": "Hero Motocorp Ltd.",
+                "holding_percent": "2.01",
+                "stock_url": "/stocks/hero-motocorp-ltd"
+            },
+            {
+                "stock_name": "NTPC Ltd.",
+                "holding_percent": "1.96",
+                "stock_url": "/stocks/ntpc-ltd"
+            },
+            {
+                "stock_name": "ICICI Prudential Life Insurance Company Ltd.",
+                "holding_percent": "1.69",
+                "stock_url": "/stocks/icici-prudential-life-insurance-company-ltd"
+            },
+            {
+                "stock_name": "Bharat Petroleum Corporation Ltd.",
+                "holding_percent": "1.51",
+                "stock_url": "/stocks/bharat-petroleum-corporation-ltd"
+            },
+            {
+                "stock_name": "Oil & Natural Gas Corporation Ltd.",
+                "holding_percent": "1.47",
+                "stock_url": "/stocks/oil-natural-gas-corporation-ltd"
+            },
+            {
+                "stock_name": "HCL Technologies Ltd.",
+                "holding_percent": "1.44",
+                "stock_url": "/stocks/hcl-technologies-ltd"
+            },
+            {
+                "stock_name": "DLF Ltd.",
+                "holding_percent": "1.39",
+                "stock_url": "/stocks/dlf-ltd"
+            },
+            {
+                "stock_name": "Tech Mahindra Ltd.",
+                "holding_percent": "1.36",
+                "stock_url": "/stocks/tech-mahindra-ltd"
+            },
+            {
+                "stock_name": "SBI Life Insurance Company Ltd.",
+                "holding_percent": "1.31",
+                "stock_url": "/stocks/sbi-life-insurance-company-ltd"
+            },
+            {
+                "stock_name": "Interglobe Aviation Ltd.",
+                "holding_percent": "1.27",
+                "stock_url": "/stocks/interglobe-aviation-ltd"
+            },
+            {
+                "stock_name": "Lupin Ltd.",
+                "holding_percent": "1.21",
+                "stock_url": "/stocks/lupin-ltd"
+            },
+            {
+                "stock_name": "Tata Motors Ltd. - DVR Ordinary",
+                "holding_percent": "1.16",
+                "stock_url": "/stocks/tata-motors-dvr-ordinary"
+            },
+            {
+                "stock_name": "Coal India Ltd.",
+                "holding_percent": "1.11",
+                "stock_url": "/stocks/coal-india-ltd"
+            },
+            {
+                "stock_name": "Hindalco Industries Ltd.",
+                "holding_percent": "1.11",
+                "stock_url": "/stocks/hindalco-industries-ltd"
+            },
+            {
+                "stock_name": "Kotak Mahindra Bank Ltd.",
+                "holding_percent": "1.09",
+                "stock_url": "/stocks/kotak-mahindra-bank-ltd"
+            },
+            {
+                "stock_name": "Avenue Supermarts Ltd.",
+                "holding_percent": "1.05",
+                "stock_url": "/stocks/avenue-supermarts-ltd"
+            },
+            {
+                "stock_name": "Procter & Gamble Hygiene and Health Care Ltd.",
+                "holding_percent": "1.04",
+                "stock_url": "/stocks/procter-gamble-hygiene-health-care-ltd"
+            },
+            {
+                "stock_name": "Power Grid Corporation Of India Ltd.",
+                "holding_percent": "1.03",
+                "stock_url": "/stocks/power-grid-corporation-of-india-ltd"
+            },
+            {
+                "stock_name": "HDFC Asset Management Company Ltd.",
+                "holding_percent": "1.02",
+                "stock_url": "/stocks/hdfc-asset-management-company-ltd"
+            },
+            {
+                "stock_name": "United Breweries Ltd.",
+                "holding_percent": "0.85",
+                "stock_url": "/stocks/united-breweries-ltd"
+            },
+            {
+                "stock_name": "TVS Motor Company Ltd.",
+                "holding_percent": "0.75",
+                "stock_url": "/stocks/tvs-motor-company-ltd"
+            },
+            {
+                "stock_name": "United Spirits Ltd.",
+                "holding_percent": "0.75",
+                "stock_url": "/stocks/united-spirits-ltd"
+            },
+            {
+                "stock_name": "Siemens Ltd.",
+                "holding_percent": "0.66",
+                "stock_url": "/stocks/siemens-ltd"
+            },
+            {
+                "stock_name": "Grasim Industries Ltd.",
+                "holding_percent": "0.64",
+                "stock_url": "/stocks/grasim-industries-ltd"
+            },
+            {
+                "stock_name": "Cummins India Ltd.",
+                "holding_percent": "0.57",
+                "stock_url": "/stocks/cummins-india-ltd"
+            },
+            {
+                "stock_name": "Hindustan Aeronautics Ltd.",
+                "holding_percent": "0.57",
+                "stock_url": "/stocks/hindustan-aeronautics-ltd"
+            },
+            {
+                "stock_name": "Bajaj Auto Ltd.",
+                "holding_percent": "0.54",
+                "stock_url": "/stocks/bajaj-auto-ltd"
+            },
+            {
+                "stock_name": "Mahindra & Mahindra Ltd.",
+                "holding_percent": "0.54",
+                "stock_url": "/stocks/mahindra-mahindra-ltd"
+            },
+            {
+                "stock_name": "Aurobindo Pharma Ltd.",
+                "holding_percent": "0.53",
+                "stock_url": "/stocks/aurobindo-pharma-ltd"
+            },
+            {
+                "stock_name": "Zydus Lifesciences Ltd.",
+                "holding_percent": "0.47",
+                "stock_url": "/stocks/cadila-healthcare-ltd"
+            },
+            {
+                "stock_name": "Trent Ltd.",
+                "holding_percent": "0.46",
+                "stock_url": "/stocks/trent-ltd"
+            },
+            {
+                "stock_name": "Tata Consultancy Services Ltd.",
+                "holding_percent": "0.40",
+                "stock_url": "/stocks/tata-consultancy-services-ltd"
+            },
+            {
+                "stock_name": "ICICI Lombard General Insurance Comapny Ltd.",
+                "holding_percent": "0.35",
+                "stock_url": "/stocks/icici-lombard-general-insurance-co-ltd"
+            },
+            {
+                "stock_name": "Dr. Reddy's Laboratories Ltd.",
+                "holding_percent": "0.34",
+                "stock_url": "/stocks/dr-reddys-laboratories-ltd"
+            },
+            {
+                "stock_name": "Tata Motors Ltd.",
+                "holding_percent": "0.34",
+                "stock_url": "/stocks/tata-motors-ltd"
+            },
+            {
+                "stock_name": "Mankind Pharma Ltd.",
+                "holding_percent": "0.33",
+                "stock_url": "/stocks/mankind-pharma-ltd"
+            },
+            {
+                "stock_name": "Hindustan Petroleum Corporation Ltd.",
+                "holding_percent": "0.31",
+                "stock_url": "/stocks/hindustan-petroleum-corporation-ltd"
+            },
+            {
+                "stock_name": "Wipro Ltd.",
+                "holding_percent": "0.30",
+                "stock_url": "/stocks/wipro-ltd"
+            },
+            {
+                "stock_name": "Titan Company Ltd.",
+                "holding_percent": "0.29",
+                "stock_url": "/stocks/titan-company-ltd"
+            },
+            {
+                "stock_name": "Vedanta Ltd.",
+                "holding_percent": "0.28",
+                "stock_url": "/stocks/vedanta-ltd"
+            },
+            {
+                "stock_name": "GAIL (India) Ltd.",
+                "holding_percent": "0.28",
+                "stock_url": "/stocks/gail-india-ltd"
+            },
+            {
+                "stock_name": "Asian Paints Ltd.",
+                "holding_percent": "0.27",
+                "stock_url": "/stocks/asian-paints-ltd"
+            },
+            {
+                "stock_name": "Samvardhana Motherson International Ltd.",
+                "holding_percent": "0.19",
+                "stock_url": "/stocks/motherson-sumi-systems-ltd"
+            },
+            {
+                "stock_name": "Muthoot Finance Ltd.",
+                "holding_percent": "0.19",
+                "stock_url": "/stocks/muthoot-finance-ltd"
+            },
+            {
+                "stock_name": "ICICI Securities Ltd.",
+                "holding_percent": "0.16",
+                "stock_url": "/stocks/icici-securities-ltd"
+            },
+            {
+                "stock_name": "Cipla Ltd.",
+                "holding_percent": "0.15",
+                "stock_url": "/stocks/cipla-ltd"
+            },
+            {
+                "stock_name": "Zee Entertainment Enterprises Ltd.",
+                "holding_percent": "0.12",
+                "stock_url": "/stocks/zee-entertainment-enterprises-ltd"
+            },
+            {
+                "stock_name": "Syngene International Ltd.",
+                "holding_percent": "0.12",
+                "stock_url": "/stocks/syngene-international-ltd"
+            },
+            {
+                "stock_name": "Apollo Hospitals Enterprise Ltd.",
+                "holding_percent": "0.11",
+                "stock_url": "/stocks/apollo-hospitals-enterprise-ltd"
+            },
+            {
+                "stock_name": "JM Financial Ltd.",
+                "holding_percent": "0.11",
+                "stock_url": "/stocks/jm-financial-ltd"
+            },
+            {
+                "stock_name": "Gujarat Pipavav Port Ltd.",
+                "holding_percent": "0.10",
+                "stock_url": "/stocks/gujarat-pipavav-port-ltd"
+            },
+            {
+                "stock_name": "HDFC Life Insurance Co Ltd.",
+                "holding_percent": "0.10",
+                "stock_url": "/stocks/hdfc-standard-life-insurance-co-ltd"
+            },
+            {
+                "stock_name": "Gillette India Ltd.",
+                "holding_percent": "0.08",
+                "stock_url": "/stocks/gillette-india-ltd"
+            },
+            {
+                "stock_name": "Hindustan Unilever Ltd.",
+                "holding_percent": "0.08",
+                "stock_url": "/stocks/hindustan-unilever-ltd"
+            },
+            {
+                "stock_name": "Max Financial Services Ltd.",
+                "holding_percent": "0.07",
+                "stock_url": "/stocks/max-financial-services-ltd"
+            },
+            {
+                "stock_name": "Birla Corporation Ltd.",
+                "holding_percent": "0.05",
+                "stock_url": "/stocks/birla-corporation-ltd"
+            },
+            {
+                "stock_name": "Dabur India Ltd.",
+                "holding_percent": "0.05",
+                "stock_url": "/stocks/dabur-india-ltd"
+            },
+            {
+                "stock_name": "Grasim Industries - (Partly Paid Equity)",
+                "holding_percent": "0.01",
+                "stock_url": "/stocks/grasim-industries-ltd-rights-issue-partly-paidup"
+            }
+        ]
+    },
+    {
+        "schemeName": "SBI Small Cap Fund Direct Growth",
+        "holdings": [
+            {
+                "stock_name": "Blue Star Ltd.",
+                "holding_percent": "4.71",
+                "stock_url": "/stocks/blue-star-ltd"
+            },
+            {
+                "stock_name": "Kalpataru Projects International Ltd.",
+                "holding_percent": "3.79",
+                "stock_url": "/stocks/kalpataru-power-transmission-ltd"
+            },
+            {
+                "stock_name": "Chalet Hotels Ltd.",
+                "holding_percent": "3.37",
+                "stock_url": "/stocks/chalet-hotels-ltd"
+            },
+            {
+                "stock_name": "Finolex Industries Ltd.",
+                "holding_percent": "3.20",
+                "stock_url": "/stocks/finolex-industries-ltd"
+            },
+            {
+                "stock_name": "GE T&D India Ltd.",
+                "holding_percent": "2.81",
+                "stock_url": "/stocks/ge-td-india-ltd"
+            },
+            {
+                "stock_name": "Lemon Tree Hotels Ltd.",
+                "holding_percent": "2.57",
+                "stock_url": "/stocks/lemon-tree-hotels-ltd"
+            },
+            {
+                "stock_name": "Carborundum Universal Ltd.",
+                "holding_percent": "2.46",
+                "stock_url": "/stocks/carborundum-universal-ltd"
+            },
+            {
+                "stock_name": "Elgi Equipments Ltd.",
+                "holding_percent": "2.37",
+                "stock_url": "/stocks/elgi-equipments-ltd"
+            },
+            {
+                "stock_name": "Triveni Turbine Ltd.",
+                "holding_percent": "2.31",
+                "stock_url": "/stocks/triveni-turbine-ltd"
+            },
+            {
+                "stock_name": "CMS Info Systems Ltd.",
+                "holding_percent": "2.30",
+                "stock_url": "/stocks/cms-info-systems-ltd"
+            },
+            {
+                "stock_name": "City Union Bank Ltd.",
+                "holding_percent": "2.28",
+                "stock_url": "/stocks/city-union-bank-ltd"
+            },
+            {
+                "stock_name": "SBFC Finance Ltd.",
+                "holding_percent": "2.26",
+                "stock_url": "/stocks/sbfc-finance-ltd"
+            },
+            {
+                "stock_name": "V-Guard Industries Ltd.",
+                "holding_percent": "2.21",
+                "stock_url": "/stocks/vguard-industries-ltd"
+            },
+            {
+                "stock_name": "Whirlpool Of India Ltd.",
+                "holding_percent": "2.08",
+                "stock_url": "/stocks/whirlpool-of-india-ltd"
+            },
+            {
+                "stock_name": "DOMS Industries Ltd.",
+                "holding_percent": "2.03",
+                "stock_url": "/stocks/doms-industries-ltd"
+            },
+            {
+                "stock_name": "Aavas Financiers Ltd.",
+                "holding_percent": "2.02",
+                "stock_url": "/stocks/aavas-financiers-ltd"
+            },
+            {
+                "stock_name": "Krishna Institute of Medical Sciences Ltd",
+                "holding_percent": "2.00",
+                "stock_url": "/stocks/krishna-institute-of-medical-sciences-ltd"
+            },
+            {
+                "stock_name": "Chemplast Sanmar Ltd.",
+                "holding_percent": "1.95",
+                "stock_url": "/stocks/chemplast-sanmar-ltd"
+            },
+            {
+                "stock_name": "Esab India Ltd.",
+                "holding_percent": "1.86",
+                "stock_url": "/stocks/esab-india-ltd"
+            },
+            {
+                "stock_name": "LIC Housing Finance Ltd.",
+                "holding_percent": "1.85",
+                "stock_url": "/stocks/lic-housing-finance-ltd"
+            },
+            {
+                "stock_name": "Ahluwalia Contracts (India) Ltd.",
+                "holding_percent": "1.81",
+                "stock_url": "/stocks/ahluwalia-contracts-india-ltd"
+            },
+            {
+                "stock_name": "E.I.D. - Parry (India) Ltd.",
+                "holding_percent": "1.77",
+                "stock_url": "/stocks/eid-parry-india-ltd"
+            },
+            {
+                "stock_name": "Go Fashion (India) Ltd.",
+                "holding_percent": "1.66",
+                "stock_url": "/stocks/go-fashion-india-ltd"
+            },
+            {
+                "stock_name": "Brigade Enterprises Ltd.",
+                "holding_percent": "1.63",
+                "stock_url": "/stocks/brigade-enterprises-ltd"
+            },
+            {
+                "stock_name": "VST Industries Ltd.",
+                "holding_percent": "1.59",
+                "stock_url": "/stocks/vst-industries-ltd"
+            },
+            {
+                "stock_name": "TTK Prestige Ltd.",
+                "holding_percent": "1.56",
+                "stock_url": "/stocks/ttk-prestige-ltd"
+            },
+            {
+                "stock_name": "ZF Commercial Vehicle Control Systems India Ltd.",
+                "holding_percent": "1.55",
+                "stock_url": "/stocks/wabco-india-ltd"
+            },
+            {
+                "stock_name": "CSB Bank Ltd.",
+                "holding_percent": "1.53",
+                "stock_url": "/stocks/csb-bank-ltd"
+            },
+            {
+                "stock_name": "Karur Vysya Bank Ltd.",
+                "holding_percent": "1.42",
+                "stock_url": "/stocks/karur-vysya-bank-ltd"
+            },
+            {
+                "stock_name": "Westlife Foodworld Ltd.",
+                "holding_percent": "1.39",
+                "stock_url": "/stocks/westlife-development-ltd"
+            },
+            {
+                "stock_name": "GR Infraprojects Ltd.",
+                "holding_percent": "1.39",
+                "stock_url": "/stocks/gr-infraprojects-ltd"
+            },
+            {
+                "stock_name": "Vedant Fashions Ltd.",
+                "holding_percent": "1.27",
+                "stock_url": "/stocks/vedant-fashions-ltd"
+            },
+            {
+                "stock_name": "Star Cement Ltd.",
+                "holding_percent": "1.25",
+                "stock_url": "/stocks/star-cement-ltd"
+            },
+            {
+                "stock_name": "PVR Inox Ltd.",
+                "holding_percent": "1.24",
+                "stock_url": "/stocks/pvr-ltd"
+            },
+            {
+                "stock_name": "Hatsun Agro Product Ltd.",
+                "holding_percent": "1.17",
+                "stock_url": "/stocks/hatsun-agro-products-ltd"
+            },
+            {
+                "stock_name": "Sheela Foam Ltd.",
+                "holding_percent": "1.17",
+                "stock_url": "/stocks/sheela-foam-ltd"
+            },
+            {
+                "stock_name": "Dodla Dairy Ltd",
+                "holding_percent": "1.16",
+                "stock_url": "/stocks/dodla-dairy-ltd"
+            },
+            {
+                "stock_name": "Archean Chemical Industries Ltd.",
+                "holding_percent": "1.16",
+                "stock_url": "/stocks/archean-chemical-industries-ltd"
+            },
+            {
+                "stock_name": "Indian Energy Exchange Ltd.",
+                "holding_percent": "1.14",
+                "stock_url": "/stocks/indian-energy-exchange-ltd"
+            },
+            {
+                "stock_name": "Fine Organic Industries Ltd.",
+                "holding_percent": "1.11",
+                "stock_url": "/stocks/fine-organic-industries-ltd"
+            },
+            {
+                "stock_name": "Anand Rathi Wealth Ltd.",
+                "holding_percent": "1.10",
+                "stock_url": "/stocks/anand-rathi-wealth-services-ltd"
+            },
+            {
+                "stock_name": "KNR Constructions Ltd.",
+                "holding_percent": "1.09",
+                "stock_url": "/stocks/knr-construction-ltd"
+            },
+            {
+                "stock_name": "Ratnamani Metals & Tubes Ltd.",
+                "holding_percent": "0.91",
+                "stock_url": "/stocks/ratnamani-metals-tubes-ltd"
+            },
+            {
+                "stock_name": "Hawkins Cookers Ltd.",
+                "holding_percent": "0.88",
+                "stock_url": "/stocks/hawkins-cookers-ltd"
+            },
+            {
+                "stock_name": "Rajratan Global Wire Ltd.",
+                "holding_percent": "0.86",
+                "stock_url": "/stocks/rajratan-global-wire-ltd"
+            },
+            {
+                "stock_name": "Navin Fluorine International Ltd.",
+                "holding_percent": "0.86",
+                "stock_url": "/stocks/navin-fluorine-international-ltd"
+            },
+            {
+                "stock_name": "Zydus Wellness Ltd.",
+                "holding_percent": "0.81",
+                "stock_url": "/stocks/zydus-wellness-ltd"
+            },
+            {
+                "stock_name": "V-Mart Retail Ltd.",
+                "holding_percent": "0.63",
+                "stock_url": "/stocks/vmart-retail-ltd"
+            },
+            {
+                "stock_name": "Gujarat State Petronet Ltd.",
+                "holding_percent": "0.63",
+                "stock_url": "/stocks/gujarat-state-petronet-ltd"
+            },
+            {
+                "stock_name": "Relaxo Footwears Ltd.",
+                "holding_percent": "0.58",
+                "stock_url": "/stocks/relaxo-footwears-ltd"
+            },
+            {
+                "stock_name": "Thangamayil Jewellery Ltd.",
+                "holding_percent": "0.58",
+                "stock_url": "/stocks/thangamayil-jewellery-ltd"
+            },
+            {
+                "stock_name": "Rossari Biotech Ltd.",
+                "holding_percent": "0.54",
+                "stock_url": "/stocks/rossari-biotech-ltd"
+            },
+            {
+                "stock_name": "Nuvoco Vistas Corporation Ltd.",
+                "holding_percent": "0.40",
+                "stock_url": "/stocks/nuvoco-vistas-corporation-ltd"
+            },
+            {
+                "stock_name": "Graphite India Ltd.",
+                "holding_percent": "0.21",
+                "stock_url": "/stocks/graphite-india-ltd"
+            },
+            {
+                "stock_name": "Sai Silks (Kalamandir) Ltd.",
+                "holding_percent": "0.06",
+                "stock_url": "/stocks/sai-silks-kalamandir-ltd"
+            },
+            {
+                "stock_name": "Happy Forgings Ltd.",
+                "holding_percent": "0.02",
+                "stock_url": "/stocks/happy-forgings-ltd"
+            }
+        ]
+    },
+    {
+        "schemeName": "Tata Digital India Fund Direct Growth",
+        "holdings": [
+            {
+                "stock_name": "Infosys Ltd.",
+                "holding_percent": "17.64",
+                "stock_url": "/stocks/infosys-ltd"
+            },
+            {
+                "stock_name": "Tata Consultancy Services Ltd.",
+                "holding_percent": "13.99",
+                "stock_url": "/stocks/tata-consultancy-services-ltd"
+            },
+            {
+                "stock_name": "Tech Mahindra Ltd.",
+                "holding_percent": "9.06",
+                "stock_url": "/stocks/tech-mahindra-ltd"
+            },
+            {
+                "stock_name": "HCL Technologies Ltd.",
+                "holding_percent": "7.92",
+                "stock_url": "/stocks/hcl-technologies-ltd"
+            },
+            {
+                "stock_name": "LTIMindtree Ltd.",
+                "holding_percent": "6.04",
+                "stock_url": "/stocks/larsen-toubro-infotech-ltd"
+            },
+            {
+                "stock_name": "Zomato Ltd.",
+                "holding_percent": "5.43",
+                "stock_url": "/stocks/zomato-ltd"
+            },
+            {
+                "stock_name": "Wipro Ltd.",
+                "holding_percent": "4.98",
+                "stock_url": "/stocks/wipro-ltd"
+            },
+            {
+                "stock_name": "Cyient Ltd.",
+                "holding_percent": "3.35",
+                "stock_url": "/stocks/cyient-ltd"
+            },
+            {
+                "stock_name": "Persistent Systems Ltd.",
+                "holding_percent": "3.07",
+                "stock_url": "/stocks/persistent-systems-ltd"
+            },
+            {
+                "stock_name": "Sonata Software Ltd.",
+                "holding_percent": "2.82",
+                "stock_url": "/stocks/sonata-software-ltd"
+            },
+            {
+                "stock_name": "BSE Ltd.",
+                "holding_percent": "2.37",
+                "stock_url": "/stocks/bse-ltd"
+            },
+            {
+                "stock_name": "Firstsource Solutions Ltd.",
+                "holding_percent": "2.06",
+                "stock_url": "/stocks/firstsource-solutions-ltd"
+            },
+            {
+                "stock_name": "Bharti Airtel Ltd.",
+                "holding_percent": "1.86",
+                "stock_url": "/stocks/bharti-airtel-ltd"
+            },
+            {
+                "stock_name": "PB Fintech Ltd.",
+                "holding_percent": "1.56",
+                "stock_url": "/stocks/pb-fintech-ltd"
+            },
+            {
+                "stock_name": "ABB India Ltd.",
+                "holding_percent": "1.35",
+                "stock_url": "/stocks/abb-india-ltd"
+            },
+            {
+                "stock_name": "Newgen Software Technologies Ltd.",
+                "holding_percent": "1.26",
+                "stock_url": "/stocks/newgen-software-technologies-ltd"
+            },
+            {
+                "stock_name": "Zensar Technologies Ltd.",
+                "holding_percent": "1.23",
+                "stock_url": "/stocks/zensar-technologies-ltd"
+            },
+            {
+                "stock_name": "Siemens Ltd.",
+                "holding_percent": "1.14",
+                "stock_url": "/stocks/siemens-ltd"
+            },
+            {
+                "stock_name": "Tata Communications Ltd.",
+                "holding_percent": "1.01",
+                "stock_url": "/stocks/tata-communications-ltd"
+            },
+            {
+                "stock_name": "Mphasis Ltd.",
+                "holding_percent": "0.99",
+                "stock_url": "/stocks/mphasis-ltd"
+            },
+            {
+                "stock_name": "Info Edge (India) Ltd.",
+                "holding_percent": "0.98",
+                "stock_url": "/stocks/info-edge-india-ltd"
+            },
+            {
+                "stock_name": "Birlasoft Ltd.",
+                "holding_percent": "0.87",
+                "stock_url": "/stocks/kpit-technologies-ltd"
+            },
+            {
+                "stock_name": "Redington Ltd.",
+                "holding_percent": "0.70",
+                "stock_url": "/stocks/redington-india-ltd"
+            },
+            {
+                "stock_name": "Mastek Ltd.",
+                "holding_percent": "0.65",
+                "stock_url": "/stocks/mastek-ltd"
+            },
+            {
+                "stock_name": "Coforge Ltd.",
+                "holding_percent": "0.62",
+                "stock_url": "/stocks/niit-technologies-ltd"
+            },
+            {
+                "stock_name": "L&T Technology Services Ltd.",
+                "holding_percent": "0.59",
+                "stock_url": "/stocks/lt-technology-services-ltd"
+            },
+            {
+                "stock_name": "KPIT Technologies Ltd.",
+                "holding_percent": "0.53",
+                "stock_url": "/stocks/kpit-engineering-ltd"
+            },
+            {
+                "stock_name": "Netweb Technologies India Ltd.",
+                "holding_percent": "0.45",
+                "stock_url": "/stocks/netweb-technologies-india-ltd"
+            },
+            {
+                "stock_name": "Honeywell Automation India Ltd.",
+                "holding_percent": "0.42",
+                "stock_url": "/stocks/honeywell-automation-india-ltd"
+            },
+            {
+                "stock_name": "Yatra Online Ltd.",
+                "holding_percent": "0.29",
+                "stock_url": "/stocks/yatra-online-ltd"
+            },
+            {
+                "stock_name": "Latent View Analytics Ltd.",
+                "holding_percent": "0.21",
+                "stock_url": "/stocks/latent-view-analytics-ltd"
+            },
+            {
+                "stock_name": "RateGain Travel Technologies Ltd.",
+                "holding_percent": "0.14",
+                "stock_url": "/stocks/rategain-travel-technologies-ltd"
+            }
+        ]
+    },
+    {
+        "schemeName": "HDFC Mid Cap Opportunities Direct Plan Growth",
+        "holdings": [
+            {
+                "stock_name": "The Indian Hotels Company Ltd.",
+                "holding_percent": "4.55",
+                "stock_url": "/stocks/the-indian-hotels-company-ltd"
+            },
+            {
+                "stock_name": "Tata Communications Ltd.",
+                "holding_percent": "3.36",
+                "stock_url": "/stocks/tata-communications-ltd"
+            },
+            {
+                "stock_name": "Apollo Tyres Ltd.",
+                "holding_percent": "3.23",
+                "stock_url": "/stocks/apollo-tyres-ltd"
+            },
+            {
+                "stock_name": "Max Financial Services Ltd.",
+                "holding_percent": "3.21",
+                "stock_url": "/stocks/max-financial-services-ltd"
+            },
+            {
+                "stock_name": "Max Healthcare Institute Ltd.",
+                "holding_percent": "3.09",
+                "stock_url": "/stocks/max-healthcare-institute-ltd"
+            },
+            {
+                "stock_name": "The Federal Bank Ltd.",
+                "holding_percent": "3.07",
+                "stock_url": "/stocks/the-federal-bank-ltd"
+            },
+            {
+                "stock_name": "Indian Bank",
+                "holding_percent": "2.93",
+                "stock_url": "/stocks/indian-bank"
+            },
+            {
+                "stock_name": "Ipca Laboratories Ltd.",
+                "holding_percent": "2.66",
+                "stock_url": "/stocks/ipca-laboratories-ltd"
+            },
+            {
+                "stock_name": "Hindustan Petroleum Corporation Ltd.",
+                "holding_percent": "2.58",
+                "stock_url": "/stocks/hindustan-petroleum-corporation-ltd"
+            },
+            {
+                "stock_name": "Coforge Ltd.",
+                "holding_percent": "2.50",
+                "stock_url": "/stocks/niit-technologies-ltd"
+            },
+            {
+                "stock_name": "Union Bank of India",
+                "holding_percent": "2.43",
+                "stock_url": "/stocks/union-bank-of-india"
+            },
+            {
+                "stock_name": "Persistent Systems Ltd.",
+                "holding_percent": "2.41",
+                "stock_url": "/stocks/persistent-systems-ltd"
+            },
+            {
+                "stock_name": "AIA Engineering Ltd.",
+                "holding_percent": "2.25",
+                "stock_url": "/stocks/aia-engineering-ltd"
+            },
+            {
+                "stock_name": "Aurobindo Pharma Ltd.",
+                "holding_percent": "2.17",
+                "stock_url": "/stocks/aurobindo-pharma-ltd"
+            },
+            {
+                "stock_name": "Jindal Steel & Power Ltd.",
+                "holding_percent": "2.11",
+                "stock_url": "/stocks/jindal-steel-power-ltd"
+            },
+            {
+                "stock_name": "Power Finance Corporation Ltd.",
+                "holding_percent": "2.07",
+                "stock_url": "/stocks/power-finance-corporation-ltd"
+            },
+            {
+                "stock_name": "Solar Industries India Ltd.",
+                "holding_percent": "1.94",
+                "stock_url": "/stocks/solar-industries-india-ltd"
+            },
+            {
+                "stock_name": "REC Ltd.",
+                "holding_percent": "1.94",
+                "stock_url": "/stocks/rec-ltd"
+            },
+            {
+                "stock_name": "Balkrishna Industries Ltd.",
+                "holding_percent": "1.88",
+                "stock_url": "/stocks/balkrishna-industries-ltd"
+            },
+            {
+                "stock_name": "Bharat Electronics Ltd.",
+                "holding_percent": "1.87",
+                "stock_url": "/stocks/bharat-electronics-ltd"
+            },
+            {
+                "stock_name": "Cummins India Ltd.",
+                "holding_percent": "1.84",
+                "stock_url": "/stocks/cummins-india-ltd"
+            },
+            {
+                "stock_name": "Dixon Technologies (India) Ltd.",
+                "holding_percent": "1.80",
+                "stock_url": "/stocks/dixon-technologies-india-ltd"
+            },
+            {
+                "stock_name": "Sundram Fasteners Ltd.",
+                "holding_percent": "1.77",
+                "stock_url": "/stocks/sundram-fasteners-ltd"
+            },
+            {
+                "stock_name": "Hindustan Aeronautics Ltd.",
+                "holding_percent": "1.77",
+                "stock_url": "/stocks/hindustan-aeronautics-ltd"
+            },
+            {
+                "stock_name": "Mahindra & Mahindra Financial Services Ltd.",
+                "holding_percent": "1.73",
+                "stock_url": "/stocks/mahindra-mahindra-financial-services-ltd"
+            },
+            {
+                "stock_name": "SKF India Ltd.",
+                "holding_percent": "1.61",
+                "stock_url": "/stocks/skf-india-ltd"
+            },
+            {
+                "stock_name": "Oracle Financial Services Software Ltd.",
+                "holding_percent": "1.58",
+                "stock_url": "/stocks/oracle-financial-services-software-ltd"
+            },
+            {
+                "stock_name": "ACC Ltd.",
+                "holding_percent": "1.34",
+                "stock_url": "/stocks/acc-ltd"
+            },
+            {
+                "stock_name": "Fortis Healthcare Ltd.",
+                "holding_percent": "1.34",
+                "stock_url": "/stocks/fortis-healthcare-ltd"
+            },
+            {
+                "stock_name": "Supreme Industries Ltd.",
+                "holding_percent": "1.31",
+                "stock_url": "/stocks/supreme-industries-ltd"
+            },
+            {
+                "stock_name": "Mphasis Ltd.",
+                "holding_percent": "1.28",
+                "stock_url": "/stocks/mphasis-ltd"
+            },
+            {
+                "stock_name": "Crompton Greaves Consumer Electricals Ltd.",
+                "holding_percent": "1.27",
+                "stock_url": "/stocks/crompton-greaves-consumer-electricals-ltd"
+            },
+            {
+                "stock_name": "PB Fintech Ltd.",
+                "holding_percent": "1.25",
+                "stock_url": "/stocks/pb-fintech-ltd"
+            },
+            {
+                "stock_name": "Redington Ltd.",
+                "holding_percent": "1.22",
+                "stock_url": "/stocks/redington-india-ltd"
+            },
+            {
+                "stock_name": "AU Small Finance Bank Ltd.",
+                "holding_percent": "1.11",
+                "stock_url": "/stocks/au-small-finance-bank-ltd"
+            },
+            {
+                "stock_name": "KEC International Ltd.",
+                "holding_percent": "1.04",
+                "stock_url": "/stocks/kec-international-ltd"
+            },
+            {
+                "stock_name": "Gujarat Fluorochemicals Ltd.",
+                "holding_percent": "1.02",
+                "stock_url": "/stocks/inox-fluorochemicals-ltd"
+            },
+            {
+                "stock_name": "Karur Vysya Bank Ltd.",
+                "holding_percent": "1.00",
+                "stock_url": "/stocks/karur-vysya-bank-ltd"
+            },
+            {
+                "stock_name": "KNR Constructions Ltd.",
+                "holding_percent": "0.96",
+                "stock_url": "/stocks/knr-construction-ltd"
+            },
+            {
+                "stock_name": "Glenmark Pharmaceuticals Ltd.",
+                "holding_percent": "0.90",
+                "stock_url": "/stocks/glenmark-pharmaceuticals-ltd"
+            },
+            {
+                "stock_name": "Gland Pharma Ltd.",
+                "holding_percent": "0.88",
+                "stock_url": "/stocks/gland-pharma-ltd"
+            },
+            {
+                "stock_name": "Aarti Industries Ltd.",
+                "holding_percent": "0.87",
+                "stock_url": "/stocks/aarti-industries-ltd"
+            },
+            {
+                "stock_name": "Tata Chemicals Ltd.",
+                "holding_percent": "0.76",
+                "stock_url": "/stocks/tata-chemicals-ltd"
+            },
+            {
+                "stock_name": "Nippon Life India Asset Management Ltd.",
+                "holding_percent": "0.75",
+                "stock_url": "/stocks/reliance-nippon-life-asset-management-ltd"
+            },
+            {
+                "stock_name": "Greenlam Industries Ltd.",
+                "holding_percent": "0.73",
+                "stock_url": "/stocks/greenlam-industries-ltd"
+            },
+            {
+                "stock_name": "Cholamandalam Investment and Finance Company Ltd.",
+                "holding_percent": "0.70",
+                "stock_url": "/stocks/cholamandalam-investment-finance-company-ltd"
+            },
+            {
+                "stock_name": "City Union Bank Ltd.",
+                "holding_percent": "0.58",
+                "stock_url": "/stocks/city-union-bank-ltd"
+            },
+            {
+                "stock_name": "Vardhman Textiles Ltd.",
+                "holding_percent": "0.56",
+                "stock_url": "/stocks/vardhman-textiles-ltd"
+            },
+            {
+                "stock_name": "Arvind Ltd.",
+                "holding_percent": "0.53",
+                "stock_url": "/stocks/arvind-ltd"
+            },
+            {
+                "stock_name": "Emami Ltd.",
+                "holding_percent": "0.53",
+                "stock_url": "/stocks/emami-ltd"
+            },
+            {
+                "stock_name": "Five-Star Business Finance Ltd.",
+                "holding_percent": "0.49",
+                "stock_url": "/stocks/fivestar-business-finance-ltd"
+            },
+            {
+                "stock_name": "Symphony Ltd.",
+                "holding_percent": "0.48",
+                "stock_url": "/stocks/symphony-ltd"
+            },
+            {
+                "stock_name": "Timken India Ltd.",
+                "holding_percent": "0.48",
+                "stock_url": "/stocks/timken-india-ltd"
+            },
+            {
+                "stock_name": "Sona BLW Precision Forgings Ltd.",
+                "holding_percent": "0.47",
+                "stock_url": "/stocks/sona-blw-precision-forgings-ltd"
+            },
+            {
+                "stock_name": "Dilip Buildcon Ltd.",
+                "holding_percent": "0.46",
+                "stock_url": "/stocks/dilip-buildcon-ltd"
+            },
+            {
+                "stock_name": "Zee Entertainment Enterprises Ltd.",
+                "holding_percent": "0.43",
+                "stock_url": "/stocks/zee-entertainment-enterprises-ltd"
+            },
+            {
+                "stock_name": "Cholamandalam Financial Holdings Ltd.",
+                "holding_percent": "0.42",
+                "stock_url": "/stocks/ti-financial-holdings-ltd"
+            },
+            {
+                "stock_name": "Vesuvius India Ltd.",
+                "holding_percent": "0.40",
+                "stock_url": "/stocks/vesuvius-india-ltd"
+            },
+            {
+                "stock_name": "VST Industries Ltd.",
+                "holding_percent": "0.38",
+                "stock_url": "/stocks/vst-industries-ltd"
+            },
+            {
+                "stock_name": "Atul Ltd.",
+                "holding_percent": "0.37",
+                "stock_url": "/stocks/atul-ltd"
+            },
+            {
+                "stock_name": "Navneet Education Ltd.",
+                "holding_percent": "0.37",
+                "stock_url": "/stocks/navneet-education-ltd"
+            },
+            {
+                "stock_name": "Greenpanel Industries Ltd.",
+                "holding_percent": "0.32",
+                "stock_url": "/stocks/greenpanel-industries-ltd"
+            },
+            {
+                "stock_name": "Greenply Industries Ltd.",
+                "holding_percent": "0.23",
+                "stock_url": "/stocks/greenply-industries-ltd"
+            },
+            {
+                "stock_name": "Schaeffler India Ltd.",
+                "holding_percent": "0.21",
+                "stock_url": "/stocks/schaeffler-india-ltd"
+            },
+            {
+                "stock_name": "Mahindra Holidays & Resorts India Ltd.",
+                "holding_percent": "0.20",
+                "stock_url": "/stocks/mahindra-holidays-resorts-india-ltd"
+            },
+            {
+                "stock_name": "Dhanuka Agritech Ltd.",
+                "holding_percent": "0.18",
+                "stock_url": "/stocks/dhanuka-agritech-ltd"
+            },
+            {
+                "stock_name": "Jagran Prakashan Ltd.",
+                "holding_percent": "0.17",
+                "stock_url": "/stocks/jagran-prakashan-ltd"
+            },
+            {
+                "stock_name": "Delta Corp Ltd.",
+                "holding_percent": "0.15",
+                "stock_url": "/stocks/delta-corp-ltd"
+            }
+        ]
+    },
+    {
+        "schemeName": "SBI Long Term Equity Fund Direct Plan Growth",
+        "holdings": [
+            {
+                "stock_name": "Torrent Power Ltd.",
+                "holding_percent": "3.86",
+                "stock_url": "/stocks/torrent-power-ltd"
+            },
+            {
+                "stock_name": "GE T&D India Ltd.",
+                "holding_percent": "3.84",
+                "stock_url": "/stocks/ge-td-india-ltd"
+            },
+            {
+                "stock_name": "ICICI Bank Ltd.",
+                "holding_percent": "3.69",
+                "stock_url": "/stocks/icici-bank-ltd"
+            },
+            {
+                "stock_name": "State Bank of India",
+                "holding_percent": "3.20",
+                "stock_url": "/stocks/state-bank-of-india"
+            },
+            {
+                "stock_name": "Cummins India Ltd.",
+                "holding_percent": "3.13",
+                "stock_url": "/stocks/cummins-india-ltd"
+            },
+            {
+                "stock_name": "Bharti Airtel Ltd.",
+                "holding_percent": "3.11",
+                "stock_url": "/stocks/bharti-airtel-ltd"
+            },
+            {
+                "stock_name": "HDFC Bank Ltd.",
+                "holding_percent": "3.06",
+                "stock_url": "/stocks/hdfc-bank-ltd"
+            },
+            {
+                "stock_name": "Mahindra & Mahindra Ltd.",
+                "holding_percent": "2.99",
+                "stock_url": "/stocks/mahindra-mahindra-ltd"
+            },
+            {
+                "stock_name": "GAIL (India) Ltd.",
+                "holding_percent": "2.65",
+                "stock_url": "/stocks/gail-india-ltd"
+            },
+            {
+                "stock_name": "Reliance Industries Ltd.",
+                "holding_percent": "2.62",
+                "stock_url": "/stocks/reliance-industries-ltd"
+            },
+            {
+                "stock_name": "Kotak Mahindra Bank Ltd.",
+                "holding_percent": "2.40",
+                "stock_url": "/stocks/kotak-mahindra-bank-ltd"
+            },
+            {
+                "stock_name": "Cipla Ltd.",
+                "holding_percent": "2.32",
+                "stock_url": "/stocks/cipla-ltd"
+            },
+            {
+                "stock_name": "Tata Motors Ltd. - DVR Ordinary",
+                "holding_percent": "2.27",
+                "stock_url": "/stocks/tata-motors-dvr-ordinary"
+            },
+            {
+                "stock_name": "Sun Pharmaceutical Industries Ltd.",
+                "holding_percent": "2.21",
+                "stock_url": "/stocks/sun-pharmaceutical-industries-ltd"
+            },
+            {
+                "stock_name": "Axis Bank Ltd.",
+                "holding_percent": "2.14",
+                "stock_url": "/stocks/axis-bank-ltd"
+            },
+            {
+                "stock_name": "Lupin Ltd.",
+                "holding_percent": "1.98",
+                "stock_url": "/stocks/lupin-ltd"
+            },
+            {
+                "stock_name": "Oil & Natural Gas Corporation Ltd.",
+                "holding_percent": "1.95",
+                "stock_url": "/stocks/oil-natural-gas-corporation-ltd"
+            },
+            {
+                "stock_name": "Bharat Petroleum Corporation Ltd.",
+                "holding_percent": "1.92",
+                "stock_url": "/stocks/bharat-petroleum-corporation-ltd"
+            },
+            {
+                "stock_name": "ICICI Prudential Life Insurance Company Ltd.",
+                "holding_percent": "1.91",
+                "stock_url": "/stocks/icici-prudential-life-insurance-company-ltd"
+            },
+            {
+                "stock_name": "Tech Mahindra Ltd.",
+                "holding_percent": "1.81",
+                "stock_url": "/stocks/tech-mahindra-ltd"
+            },
+            {
+                "stock_name": "HDFC Asset Management Company Ltd.",
+                "holding_percent": "1.73",
+                "stock_url": "/stocks/hdfc-asset-management-company-ltd"
+            },
+            {
+                "stock_name": "Infosys Ltd.",
+                "holding_percent": "1.73",
+                "stock_url": "/stocks/infosys-ltd"
+            },
+            {
+                "stock_name": "ITC Ltd.",
+                "holding_percent": "1.72",
+                "stock_url": "/stocks/itc-ltd"
+            },
+            {
+                "stock_name": "Hindalco Industries Ltd.",
+                "holding_percent": "1.71",
+                "stock_url": "/stocks/hindalco-industries-ltd"
+            },
+            {
+                "stock_name": "Petronet LNG Ltd.",
+                "holding_percent": "1.65",
+                "stock_url": "/stocks/petronet-lng-ltd"
+            },
+            {
+                "stock_name": "Coforge Ltd.",
+                "holding_percent": "1.46",
+                "stock_url": "/stocks/niit-technologies-ltd"
+            },
+            {
+                "stock_name": "Mahindra & Mahindra Financial Services Ltd.",
+                "holding_percent": "1.43",
+                "stock_url": "/stocks/mahindra-mahindra-financial-services-ltd"
+            },
+            {
+                "stock_name": "Tata Steel Ltd.",
+                "holding_percent": "1.35",
+                "stock_url": "/stocks/tata-steel-ltd"
+            },
+            {
+                "stock_name": "Fortis Healthcare Ltd.",
+                "holding_percent": "1.35",
+                "stock_url": "/stocks/fortis-healthcare-ltd"
+            },
+            {
+                "stock_name": "Equitas Small Finance Bank Ltd.",
+                "holding_percent": "1.28",
+                "stock_url": "/stocks/equitas-small-finance-bank-ltd"
+            },
+            {
+                "stock_name": "Wipro Ltd.",
+                "holding_percent": "1.27",
+                "stock_url": "/stocks/wipro-ltd"
+            },
+            {
+                "stock_name": "Delhivery Ltd.",
+                "holding_percent": "1.23",
+                "stock_url": "/stocks/delhivery-ltd"
+            },
+            {
+                "stock_name": "Sundaram - Clayton Dcd Ltd.",
+                "holding_percent": "1.23",
+                "stock_url": "/stocks/sundaramclayton-ltd-686"
+            },
+            {
+                "stock_name": "Tata Motors Ltd.",
+                "holding_percent": "1.21",
+                "stock_url": "/stocks/tata-motors-ltd"
+            },
+            {
+                "stock_name": "Larsen & Toubro Ltd.",
+                "holding_percent": "1.17",
+                "stock_url": "/stocks/larsen-toubro-ltd"
+            },
+            {
+                "stock_name": "Godrej Consumer Products Ltd.",
+                "holding_percent": "1.14",
+                "stock_url": "/stocks/godrej-consumer-products-ltd"
+            },
+            {
+                "stock_name": "AIA Engineering Ltd.",
+                "holding_percent": "1.07",
+                "stock_url": "/stocks/aia-engineering-ltd"
+            },
+            {
+                "stock_name": "TVS Holdings Ltd.",
+                "holding_percent": "1.00",
+                "stock_url": "/stocks/sundaramclayton-ltd"
+            },
+            {
+                "stock_name": "Prism Johnson Ltd.",
+                "holding_percent": "0.90",
+                "stock_url": "/stocks/prism-johnson-ltd"
+            },
+            {
+                "stock_name": "FSN E-Commerce Ventures Ltd.",
+                "holding_percent": "0.88",
+                "stock_url": "/stocks/fsn-ecommerce-ventures-ltd"
+            },
+            {
+                "stock_name": "Mahindra Lifespace Developers Ltd.",
+                "holding_percent": "0.79",
+                "stock_url": "/stocks/mahindra-lifespace-developers-ltd"
+            },
+            {
+                "stock_name": "Chemplast Sanmar Ltd.",
+                "holding_percent": "0.76",
+                "stock_url": "/stocks/chemplast-sanmar-ltd"
+            },
+            {
+                "stock_name": "Rallis India Ltd.",
+                "holding_percent": "0.76",
+                "stock_url": "/stocks/rallis-india-ltd"
+            },
+            {
+                "stock_name": "Punjab National Bank",
+                "holding_percent": "0.72",
+                "stock_url": "/stocks/punjab-national-bank"
+            },
+            {
+                "stock_name": "Container Corporation Of India Ltd.",
+                "holding_percent": "0.65",
+                "stock_url": "/stocks/container-corporation-of-india-ltd"
+            },
+            {
+                "stock_name": "Jubilant FoodWorks Ltd.",
+                "holding_percent": "0.61",
+                "stock_url": "/stocks/jubilant-foodworks-ltd"
+            },
+            {
+                "stock_name": "Shree Cement Ltd.",
+                "holding_percent": "0.59",
+                "stock_url": "/stocks/shree-cement-ltd"
+            },
+            {
+                "stock_name": "ACC Ltd.",
+                "holding_percent": "0.58",
+                "stock_url": "/stocks/acc-ltd"
+            },
+            {
+                "stock_name": "Sanofi India Ltd.",
+                "holding_percent": "0.55",
+                "stock_url": "/stocks/sanofi-india-ltd"
+            },
+            {
+                "stock_name": "Multi Commodity Exchange Of India Ltd.",
+                "holding_percent": "0.53",
+                "stock_url": "/stocks/multi-commodity-exchange-of-india-ltd"
+            },
+            {
+                "stock_name": "ICICI Lombard General Insurance Comapny Ltd.",
+                "holding_percent": "0.49",
+                "stock_url": "/stocks/icici-lombard-general-insurance-co-ltd"
+            },
+            {
+                "stock_name": "IRB Infrastructure Developers Ltd.",
+                "holding_percent": "0.49",
+                "stock_url": "/stocks/irb-infrastructure-developers-ltd"
+            },
+            {
+                "stock_name": "Grindwell Norton Ltd.",
+                "holding_percent": "0.48",
+                "stock_url": "/stocks/grindwell-norton-ltd"
+            },
+            {
+                "stock_name": "Life Insurance Corporation of India",
+                "holding_percent": "0.40",
+                "stock_url": "/stocks/life-insurance-corporation-of-india"
+            },
+            {
+                "stock_name": "Sheela Foam Ltd.",
+                "holding_percent": "0.38",
+                "stock_url": "/stocks/sheela-foam-ltd"
+            },
+            {
+                "stock_name": "PB Fintech Ltd.",
+                "holding_percent": "0.32",
+                "stock_url": "/stocks/pb-fintech-ltd"
+            },
+            {
+                "stock_name": "Bharat Forge Ltd.",
+                "holding_percent": "0.29",
+                "stock_url": "/stocks/bharat-forge-ltd"
+            },
+            {
+                "stock_name": "Exide Industries Ltd.",
+                "holding_percent": "0.28",
+                "stock_url": "/stocks/exide-industries-ltd"
+            },
+            {
+                "stock_name": "VA Tech Wabag Ltd.",
+                "holding_percent": "0.28",
+                "stock_url": "/stocks/va-tech-wabag-ltd"
+            },
+            {
+                "stock_name": "Computer Age Management Services Ltd.",
+                "holding_percent": "0.22",
+                "stock_url": "/stocks/computer-age-management-services-ltd"
+            },
+            {
+                "stock_name": "Timken India Ltd.",
+                "holding_percent": "0.21",
+                "stock_url": "/stocks/timken-india-ltd"
+            },
+            {
+                "stock_name": "Crompton Greaves Consumer Electricals Ltd.",
+                "holding_percent": "0.19",
+                "stock_url": "/stocks/crompton-greaves-consumer-electricals-ltd"
+            },
+            {
+                "stock_name": "Heidelberg Cement India Ltd.",
+                "holding_percent": "0.03",
+                "stock_url": "/stocks/heidelberg-cement-india-ltd"
+            },
+            {
+                "stock_name": "Tata Technologies Ltd",
+                "holding_percent": "0.02",
+                "stock_url": "/stocks/tata-technologies-ltd"
+            },
+            {
+                "stock_name": "Manpasand Beverages Ltd.",
+                "holding_percent": "0.00",
+                "stock_url": "/stocks/manpasand-beverages-ltd"
+            }
+        ]
+    }
+]
