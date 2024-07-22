@@ -1,0 +1,6 @@
+bs4
+beautifulsoup4==4.8.2
+PyQt5==5.15.10
+Requests==2.31.0
+selenium==4.20.0
+webdriver_manager==4.0.1
